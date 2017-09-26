@@ -7,6 +7,10 @@
   </url>
   
   <url>
+    <loc>http://rsln-s.github.io//#projects</loc>
+  </url>
+  
+  <url>
     <loc>http://rsln-s.github.io//#</loc>
     <priority>0</priority>
   </url>
