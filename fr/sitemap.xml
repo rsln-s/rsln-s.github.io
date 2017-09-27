@@ -3,6 +3,10 @@
 
   
   <url>
+    <loc>http://shaydul.in//fr/#about</loc>
+  </url>
+  
+  <url>
     <loc>http://shaydul.in//fr/#</loc>
     <priority>0</priority>
   </url>
