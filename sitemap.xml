@@ -1,14 +1,28 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-	
-	<sitemap>
-	   	<loc>http://shaydul.in/en/sitemap.xml</loc>
-		
-	</sitemap>
-	
-	<sitemap>
-	   	<loc>http://shaydul.in/fr/sitemap.xml</loc>
-		
-	</sitemap>
-	
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  
+  <url>
+    <loc>http://shaydul.in//#about</loc>
+  </url>
+  
+  <url>
+    <loc>http://shaydul.in//#CV</loc>
+  </url>
+  
+  <url>
+    <loc>http://shaydul.in//#</loc>
+  </url>
+  
+  <url>
+    <loc>http://shaydul.in//#</loc>
+  </url>
+  
+  <url>
+    <loc>http://shaydul.in//#scholar</loc>
+  </url>
+  
+  <url>
+    <loc>http://shaydul.in//#</loc>
+  </url>
+  
+</urlset>
