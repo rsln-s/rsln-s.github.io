@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: http://shaydul.in//sitemap.xml
